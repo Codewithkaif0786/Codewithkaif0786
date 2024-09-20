@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/kaifali01234" target="blank"><img src="https://img.shields.io/twitter/follow/kaifali01234?logo=twitter&style=for-the-badge" alt="kaifali01234" /></a> </p>
 
-- 🔭 I’m currently working on ** Cyber Security**
+- 🔭 I’m currently working on ** Web Development**
 
 - 🌱 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate on **AI & ML**
+- 👯 I’m looking to collaborate on **Web Development**
 
 - 🤝 I’m looking for help with **AI**
 
