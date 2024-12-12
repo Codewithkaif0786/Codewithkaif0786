@@ -11,9 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development**
 
-- 🤝 I’m looking for help with **AI**
-
-- 💬 Ask me about **C, & JAVA**
+- 💬 Ask me about **c & JAVA**
 
 - 📫 How to reach me **kaif.ali.comprotechnologies.09@gmail.com**
 
