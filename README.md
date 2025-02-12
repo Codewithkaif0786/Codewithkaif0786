@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on *Wondurlust project*
 
-- 🌱 I’m currently learning *Mern*
+- 🌱 I’m currently learning *Mern Stack*
 
 - 👯 I’m looking to collaborate on *Software Engineer*
 
-- 🤝 I’m looking for help with *mern stack*
+- 🤝 I’m looking for help with *Mern stack*
 
 - 💬 Ask me about *Mern,java,Data structure, Oops 😬*
 
@@ -23,13 +23,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ka" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kaaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaaj" height="30" width="40" /></a>
-<a href="https://fb.com/kaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaj" height="30" width="40" /></a>
-<a href="https://instagram.com/kajs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kajs" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/jja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jja" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kwk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kwk" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kaj" height="30" width="40" /></a>
+<a href="https://x.com/kaif01234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ka" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kaifali01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaaj" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100026568270527" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaj" height="30" width="40" /></a>
+<a href="https://www.instagram.com/official_kaif_ali09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kajs" height="30" width="40" /></a>
+<!-- <a href="https://www.youtube.com/c/jja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jja" height="30" width="40" /></a> -->
+<!-- <a href="https://www.hackerrank.com/kwk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kwk" height="30" width="40" /></a> -->
+<a href="https://leetcode.com/u/codingsultankaif/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kaj" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
