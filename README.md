@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kai" alt="kai" /></a> </p>
 
-<p align="left"> <a href="https://x.com/kaif01234" target="blank"><img src="https://img.shields.io/twitter/follow/ka?logo=twitter&style=for-the-badge" alt="ka" /></a> </p>
+<p align="left"> <a href="https://x.com/kaif01234" target="blank"><img src="https://img.shields.io/twitter/follow/ka?logo=twitter&style=for-the-badge" alt="kaif" /></a> </p>
 
 - 🔭 I’m currently working on *Wondurlust project*
 
