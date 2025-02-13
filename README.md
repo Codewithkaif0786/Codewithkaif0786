@@ -8,13 +8,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kai" alt="kaif" /></a> </p>
 
-<p align="left"> <a href="https://x.com/kaif01234" target="blank"><img src="https://img.shields.io/twitter/follow/ka?logo=twitter&style=for-the-badge" alt="kaif" /></a> </p>
-
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
+
+<p align="left"> <a href="https://x.com/kaif01234" target="blank"><img src="https://img.shields.io/twitter/follow/ka?logo=twitter&style=for-the-badge" alt="kaif" /></a> </p>
+
 
 - 🔭 I’m currently working on *Wondurlust project*
 
@@ -48,4 +49,27 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kai&show_icons=true&locale=en" alt="kai" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kai&" alt="kai" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=" alt="GitHub Streak" /></a>
+
+
+
+name: Generate snake animation
+
+on:
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+    - master
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+   
